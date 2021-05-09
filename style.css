@@ -1,0 +1,89 @@
+#image{
+    height: 300px;
+    width: 400px;
+}
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px grey;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: yellowgreen;
+    line-height: 3;
+    text-align: center;
+    font-size: 15px;
+}
+body{
+    background-color: white;
+}
+.page_changer{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#para{
+    color: black;
+    font-size: 19px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.back{
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    float: left;
+    margin-left: 10px;
+    width: 205px;
+}
+.previous{
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+    width: 220px;
+}
+#img{
+    width: 350px;
+    height: 250px;
+    margin-top: 8px;
+}
+.back_hospital{
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    float: left;
+    margin-left: 10px;
+    width: 205px;
+    margin-bottom: 70px;
+}
+.previous_hospital{
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+    width: 220px;
+    margin-bottom: 70px;
+}
+.back1{
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    float: left;
+    margin-left: 10px;
+    width: 205px;
+    margin-bottom: 60px;
+}
